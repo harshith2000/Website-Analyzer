@@ -1,0 +1,343 @@
+INPUT SITE
+https://www.exeterpremedia.com/
+
+HOME PAGE NAME
+https://www.exeterpremedia.com
+
+LINKS IN HOME PAGE
+https://www.kriyadocs.com/
+https://www.exeterpremedia.com/services/
+https://www.exeterpremedia.com/services/#Editorial_Services
+https://www.exeterpremedia.com/services/#Data_Services
+https://www.exeterpremedia.com/services/#Artwork
+https://www.exeterpremedia.com/services/#Project_Management
+https://www.exeterpremedia.com/blog/
+https://www.exeterpremedia.com/about-us/
+https://www.exeterpremedia.com/events/
+https://www.exeterpremedia.com/news/
+https://www.exeterpremedia.com/contact-us/
+https://careers.exeterpremedia.com/jobs/Careers
+https://www.exeterpremedia.com/
+https://www.exeterpremedia.com/wp-content/uploads/2019/06/atma-global-inc.webp
+https://www.exeterpremedia.com/wp-content/uploads/2019/06/bmj-group.webp
+https://www.exeterpremedia.com/wp-content/uploads/2019/06/bolinda-publishing-llc.webp
+https://www.exeterpremedia.com/wp-content/uploads/2019/06/brill.webp
+https://www.exeterpremedia.com/wp-content/uploads/2019/06/british-institute-of-radiology.webp
+https://www.exeterpremedia.com/wp-content/uploads/2019/06/bsi-group.webp
+https://www.exeterpremedia.com/wp-content/uploads/2019/06/business-expert-press.webp
+https://www.exeterpremedia.com/wp-content/uploads/2019/06/cabi.webp
+https://www.exeterpremedia.com/wp-content/uploads/2019/06/elife-science-publications-ltd.webp
+https://www.exeterpremedia.com/wp-content/uploads/2019/06/john-benjamins-publishing-company.webp
+https://www.exeterpremedia.com/wp-content/uploads/2019/06/journal-of-royal-medical-service.webp
+https://www.exeterpremedia.com/wp-content/uploads/2019/06/microbiology-society.webp
+https://www.exeterpremedia.com/wp-content/uploads/2019/06/momentum-press.webp
+https://www.exeterpremedia.com/wp-content/uploads/2019/06/paths-international.webp
+https://www.exeterpremedia.com/wp-content/uploads/2019/06/rosen-publishing.webp
+https://www.exeterpremedia.com/wp-content/uploads/2019/06/royal-college-of-surgeons.webp
+https://www.exeterpremedia.com/wp-content/uploads/2019/06/royal-college-of-general-practitioners.webp
+https://www.exeterpremedia.com/wp-content/uploads/2019/06/sage-publishing.webp
+https://www.exeterpremedia.com/wp-content/uploads/2019/06/springer-publishing-company.webp
+https://www.exeterpremedia.com/wp-content/uploads/2019/06/stylus-publishing-llc.webp
+https://www.exeterpremedia.com/wp-content/uploads/2019/06/summer-game-books.webp
+https://www.exeterpremedia.com/wp-content/uploads/2019/06/taylor-and-francis.webp
+https://www.exeterpremedia.com/wp-content/uploads/2019/06/the-british-editorial-society-of-bone-joint-surgery.webp
+https://www.exeterpremedia.com/wp-content/uploads/2019/06/the-british-small-animal-veterinary-association.webp
+https://www.exeterpremedia.com/wp-content/uploads/2019/06/wit-press.webp
+https://www.exeterpremedia.com/wp-content/uploads/2019/06/walter-de-gruyter-gmbh-co.-kg.webp
+https://www.exeterpremedia.com/client/
+http://twitter.com//statuses/
+https://twitter.com/Exeter_Premedia
+https://www.exeterpremedia.com/making-collaboration-work/
+https://www.exeterpremedia.com/2019/02/
+https://www.exeterpremedia.com/why-do-i-need-another-id/
+https://www.exeterpremedia.com/2018/04/
+https://www.exeterpremedia.com/the-death-of-the-pdf/
+https://www.exeterpremedia.com/2018/02/
+https://www.linkedin.com/in/parivalavan-manoharan/
+https://www.linkedin.com/in/jaishankarn/
+https://www.linkedin.com/in/augustine-k/
+https://www.linkedin.com/feed/hashtag/?keywords=%23ExeterPremedia
+https://www.linkedin.com/feed/hashtag/?keywords=%23Exeter
+https://www.linkedin.com/feed/hashtag/?keywords=%23Kriya
+https://www.linkedin.com/feed/hashtag/?keywords=%23HappyAuthors
+https://www.linkedin.com/feed/hashtag/?keywords=%23SVCE
+https://www.linkedin.com/feed/hashtag/?keywords=%23YetAnotherHackathon
+https://www.linkedin.com/feed/hashtag/?keywords=%23YAH
+https://www.linkedin.com/feed/hashtag/?keywords=%23Acmsvce
+https://www.linkedin.com/feed/hashtag/?keywords=%23FrankfurtBookFair2019
+https://www.linkedin.com/feed/hashtag/?keywords=%23CloudPublishing""
+https://www.linkedin.com/feed/hashtag/?keywords=%23Epublishing
+https://www.linkedin.com/feed/hashtag/?keywords=%23DigitalSolution
+https://www.linkedin.com/feed/hashtag/?keywords=%23AcademicPublishing
+https://www.linkedin.com/feed/hashtag/?keywords=%23ScholarlyPublishing
+https://www.linkedin.com/feed/hashtag/?keywords=%23Books
+https://www.linkedin.com/feed/hashtag/?keywords=%23Journals
+https://www.linkedin.com/feed/hashtag/?keywords=%23PublishingServices
+https://www.linkedin.com/feed/hashtag/?keywords=%23AutomationPlatform
+https://www.linkedin.com/feed/hashtag/?keywords=%23Fbf19
+https://www.linkedin.com/feed/hashtag/?keywords=%23Markup
+https://www.linkedin.com/feed/hashtag/?keywords=%23MarkupUK2019
+https://www.linkedin.com/in/ravi-venkataramani-8558534/
+https://www.linkedin.com/company/markup-uk/
+https://www.linkedin.com/company/2081042/admin/
+https://www.exeterpremedia.com
+https://www.exeterpremedia.com/exeter-privacy-policy/
+https://www.exeterpremedia.com/terms-and-conditions/
+https://www.linkedin.com/company/exeter-premedia-services
+https://www.facebook.com/exeterpremediaservices
+https://www.instagram.com/exeterpremedia/
+
+NUMBER OF TOP LEVEL PAGES
+81
+
+PAGE TITLES OF ALL TOP LEVEL PAGES
+<title>Exeter - Services</title>
+<title>Exeter - Services</title>
+<title>Exeter - Services</title>
+<title>Exeter - Services</title>
+<title>Exeter - Services</title>
+<title>Exeter - Blog</title>
+<title>Exeter - All about authors and publishers</title>
+<title>Exeter - Events</title>
+<title>Exeter - News</title>
+<title>Exeter - Contact Us</title>
+<title>Exeter - Happy Authors and Delighted Publishers</title>
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+<title>Client - Exeter</title>
+<title>Making collaboration work - Exeter</title>
+<title>February 2019 - Exeter</title>
+<title>Why do I need another ID? - Exeter</title>
+<title>April 2018 - Exeter</title>
+<title>The Death of the PDF? - Exeter</title>
+<title>February 2018 - Exeter</title>
+<title>Exeter - Happy Authors and Delighted Publishers</title>
+<title>Exeter - Privacy Policy - Exeter</title>
+<title>Terms and Conditions - Exeter</title>
+
+META TAGS OF TOP LEVEL PAGES
+<meta charset="utf-8"/>
+<meta charset="utf-8"/>
+<meta charset="utf-8"/>
+<meta charset="utf-8"/>
+<meta charset="utf-8"/>
+<meta charset="utf-8"/>
+<meta charset="utf-8"/>
+<meta charset="utf-8"/>
+<meta charset="utf-8"/>
+<meta charset="utf-8"/>
+<meta charset="utf-8"/>
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+<meta charset="utf-8"/>
+<meta charset="utf-8"/>
+<meta charset="utf-8"/>
+<meta charset="utf-8"/>
+<meta charset="utf-8"/>
+<meta charset="utf-8"/>
+<meta charset="utf-8"/>
+<meta charset="utf-8"/>
+<meta charset="utf-8"/>
+<meta charset="utf-8"/>
+
+ALL INTERNAL LINKS
+https://www.exeterpremedia.com/services/
+https://www.exeterpremedia.com/services/#Editorial_Services
+https://www.exeterpremedia.com/services/#Data_Services
+https://www.exeterpremedia.com/services/#Artwork
+https://www.exeterpremedia.com/services/#Project_Management
+https://www.exeterpremedia.com/blog/
+https://www.exeterpremedia.com/about-us/
+https://www.exeterpremedia.com/events/
+https://www.exeterpremedia.com/news/
+https://www.exeterpremedia.com/contact-us/
+https://www.exeterpremedia.com/
+https://www.exeterpremedia.com/wp-content/uploads/2019/06/atma-global-inc.webp
+https://www.exeterpremedia.com/wp-content/uploads/2019/06/bmj-group.webp
+https://www.exeterpremedia.com/wp-content/uploads/2019/06/bolinda-publishing-llc.webp
+https://www.exeterpremedia.com/wp-content/uploads/2019/06/brill.webp
+https://www.exeterpremedia.com/wp-content/uploads/2019/06/british-institute-of-radiology.webp
+https://www.exeterpremedia.com/wp-content/uploads/2019/06/bsi-group.webp
+https://www.exeterpremedia.com/wp-content/uploads/2019/06/business-expert-press.webp
+https://www.exeterpremedia.com/wp-content/uploads/2019/06/cabi.webp
+https://www.exeterpremedia.com/wp-content/uploads/2019/06/elife-science-publications-ltd.webp
+https://www.exeterpremedia.com/wp-content/uploads/2019/06/john-benjamins-publishing-company.webp
+https://www.exeterpremedia.com/wp-content/uploads/2019/06/journal-of-royal-medical-service.webp
+https://www.exeterpremedia.com/wp-content/uploads/2019/06/microbiology-society.webp
+https://www.exeterpremedia.com/wp-content/uploads/2019/06/momentum-press.webp
+https://www.exeterpremedia.com/wp-content/uploads/2019/06/paths-international.webp
+https://www.exeterpremedia.com/wp-content/uploads/2019/06/rosen-publishing.webp
+https://www.exeterpremedia.com/wp-content/uploads/2019/06/royal-college-of-surgeons.webp
+https://www.exeterpremedia.com/wp-content/uploads/2019/06/royal-college-of-general-practitioners.webp
+https://www.exeterpremedia.com/wp-content/uploads/2019/06/sage-publishing.webp
+https://www.exeterpremedia.com/wp-content/uploads/2019/06/springer-publishing-company.webp
+https://www.exeterpremedia.com/wp-content/uploads/2019/06/stylus-publishing-llc.webp
+https://www.exeterpremedia.com/wp-content/uploads/2019/06/summer-game-books.webp
+https://www.exeterpremedia.com/wp-content/uploads/2019/06/taylor-and-francis.webp
+https://www.exeterpremedia.com/wp-content/uploads/2019/06/the-british-editorial-society-of-bone-joint-surgery.webp
+https://www.exeterpremedia.com/wp-content/uploads/2019/06/the-british-small-animal-veterinary-association.webp
+https://www.exeterpremedia.com/wp-content/uploads/2019/06/wit-press.webp
+https://www.exeterpremedia.com/wp-content/uploads/2019/06/walter-de-gruyter-gmbh-co.-kg.webp
+https://www.exeterpremedia.com/client/
+https://www.exeterpremedia.com/making-collaboration-work/
+https://www.exeterpremedia.com/2019/02/
+https://www.exeterpremedia.com/why-do-i-need-another-id/
+https://www.exeterpremedia.com/2018/04/
+https://www.exeterpremedia.com/the-death-of-the-pdf/
+https://www.exeterpremedia.com/2018/02/
+https://www.exeterpremedia.com
+https://www.exeterpremedia.com/exeter-privacy-policy/
+https://www.exeterpremedia.com/terms-and-conditions/
+
+ALL EXTERNAL LINKS
+https://www.kriyadocs.com/
+https://careers.exeterpremedia.com/jobs/Careers
+http://twitter.com//statuses/
+https://twitter.com/Exeter_Premedia
+https://www.linkedin.com/in/parivalavan-manoharan/
+https://www.linkedin.com/in/jaishankarn/
+https://www.linkedin.com/in/augustine-k/
+https://www.linkedin.com/feed/hashtag/?keywords=%23ExeterPremedia
+https://www.linkedin.com/feed/hashtag/?keywords=%23Exeter
+https://www.linkedin.com/feed/hashtag/?keywords=%23Kriya
+https://www.linkedin.com/feed/hashtag/?keywords=%23HappyAuthors
+https://www.linkedin.com/feed/hashtag/?keywords=%23SVCE
+https://www.linkedin.com/feed/hashtag/?keywords=%23YetAnotherHackathon
+https://www.linkedin.com/feed/hashtag/?keywords=%23YAH
+https://www.linkedin.com/feed/hashtag/?keywords=%23Acmsvce
+https://www.linkedin.com/feed/hashtag/?keywords=%23FrankfurtBookFair2019
+https://www.linkedin.com/feed/hashtag/?keywords=%23CloudPublishing""
+https://www.linkedin.com/feed/hashtag/?keywords=%23Epublishing
+https://www.linkedin.com/feed/hashtag/?keywords=%23DigitalSolution
+https://www.linkedin.com/feed/hashtag/?keywords=%23AcademicPublishing
+https://www.linkedin.com/feed/hashtag/?keywords=%23ScholarlyPublishing
+https://www.linkedin.com/feed/hashtag/?keywords=%23Books
+https://www.linkedin.com/feed/hashtag/?keywords=%23Journals
+https://www.linkedin.com/feed/hashtag/?keywords=%23PublishingServices
+https://www.linkedin.com/feed/hashtag/?keywords=%23AutomationPlatform
+https://www.linkedin.com/feed/hashtag/?keywords=%23Fbf19
+https://www.linkedin.com/feed/hashtag/?keywords=%23Markup
+https://www.linkedin.com/feed/hashtag/?keywords=%23MarkupUK2019
+https://www.linkedin.com/in/ravi-venkataramani-8558534/
+https://www.linkedin.com/company/markup-uk/
+https://www.linkedin.com/company/2081042/admin/
+https://www.linkedin.com/company/exeter-premedia-services
+https://www.facebook.com/exeterpremediaservices
+https://www.instagram.com/exeterpremedia/
+
+TOP 20 UNIGRAMS
+0
+important
+3619
+webkittransform
+transform
+https
+scale
+1
+div
+3634
+position
+0A
+3609
+rotate
+infinite
+relative
+type
+var
+Exeter
+3640
+
+TOP 20 BIGRAMS
+scale 1
+position relative
+type imageobject
+imageobject contenturl
+contenturl https
+3b 0a
+webkittransform scale
+1 transform
+transform scale
+div nthchild
+externalurl useexternalurl
+useexternalurl openinnewtab
+openinnewtab httpbuildquery
+httpbuildquery httpbuildqueryselectively
+httpbuildqueryselectively httpbuildqueryselectivelyfields
+httpbuildqueryselectivelyfields delayredirect
+aftersentscript thankyoupageurl
+100 webkittransform
+exeter premedia
+perspective 100px
+
+TOP 20 TRIGRAMS
+type imageobject contenturl
+imageobject contenturl https
+externalurl useexternalurl openinnewtab
+useexternalurl openinnewtab httpbuildquery
+openinnewtab httpbuildquery httpbuildqueryselectively
+httpbuildquery httpbuildqueryselectively httpbuildqueryselectivelyfields
+httpbuildqueryselectively httpbuildqueryselectivelyfields delayredirect
+scale 1 transform
+perspective 100px rotatex
+webkittransform scale 1
+1 transform scale
+transform scale 1
+pageid externalurl useexternalurl
+httpbuildqueryselectivelyfields delayredirect aftersentscript
+delayredirect aftersentscript thankyoupageurl
+infinite cubicbezier 2
+cubicbezier 2 68
+2 68 18108
+3610 3640 3619
+3640 3619 3637
+
+SIZE OF WEB PAGE
+161489
