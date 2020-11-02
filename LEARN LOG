@@ -1,7 +1,7 @@
 Problems you encountered and How I solved them
 * I had issues and doubts starting with web scraping as I'm doing this for the first time. So, I had to learn web scraping from scratch and start this project.
 * I saw youtube tutorials and read medium articles to learn how web scraping works and the various use cases or applications of web scraping
-* I had few doubts inbetween the implementation and I used websites like stackoverflow to clarify my doubts.
+* I had few doubts in between the implementation and I used websites like stackoverflow to clarify my doubts.
 
 Why did you make a certain decision? What were the options?
 * I had to choose how should I present the output. I had options like presenting in the terminal (or jupyter notebook), redirecting the output to a csv file or redirecting the output to a text file. 
