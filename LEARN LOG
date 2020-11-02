@@ -6,6 +6,13 @@ Problems you encountered and How I solved them
 Why did you make a certain decision? What were the options?
 * I had to choose how should I present the output. I had options like presenting in the terminal (or jupyter notebook), redirecting the output to a csv file or redirecting the output to a text file. 
   I chose to print give the output in all three formats(same terminal, csv file and text file)
+  
+Idioms you learned/used
+* beautifulSoup
+* urllib
+* nltk
+* re
+* pandas
  
 What did you learn?
 * I learned how web scraping works and its applications
